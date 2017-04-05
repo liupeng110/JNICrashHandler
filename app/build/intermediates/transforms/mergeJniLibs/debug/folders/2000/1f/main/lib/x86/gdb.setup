@@ -1,0 +1,3 @@
+set solib-search-path D:/work/JNICrashHandlerApp-master/app/src/main/obj/local/x86
+source D:/sdk/ndk/prebuilt/common/gdb/common.setup
+directory D:/sdk/ndk/platforms/android-9/arch-x86/usr/include D:/sdk/ndk/sources/cxx-stl/system/include D:/work/JNICrashHandlerApp-master/app/src/main/jni
